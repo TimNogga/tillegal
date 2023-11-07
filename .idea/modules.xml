@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blatt 4_ SVD (Code)/.idea/Blatt 4_ SVD (Code).iml" filepath="$PROJECT_DIR$/Blatt 4_ SVD (Code)/.idea/Blatt 4_ SVD (Code).iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/tillegal.iml" filepath="$PROJECT_DIR$/.idea/tillegal.iml" />
     </modules>
   </component>
